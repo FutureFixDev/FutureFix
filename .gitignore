@@ -1,10 +1,4 @@
-# Visual Studio / VSCode files
-.vs/
 bin/
 obj/
-*.user
-*.suo
-*.log
-
-# Database files (optional if using SQLite locally)
-*.db
+publish/
+.vs/
